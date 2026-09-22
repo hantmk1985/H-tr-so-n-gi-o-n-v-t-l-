@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý Soạn Giáo Án Vật Lý THPT (CV 5512)",
+  "description": "Hệ thống hỗ trợ giáo viên thiết kế kế hoạch bài dạy môn Vật lý THPT lớp 10, 11, 12 chuẩn Công văn 5512/BGDĐT và GDPT 2018 theo 3 bộ sách Kết nối tri thức, Cánh diều, Chân trời sáng tạo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
